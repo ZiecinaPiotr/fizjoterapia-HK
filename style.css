@@ -1,0 +1,241 @@
+body{
+	background: url("img/light-grey-terrazzo.png"); /* www.toptal.com/designers/subtlepatterns/*/
+	font-size: 25px;
+	font-family: 'Lato', sans-serif;
+	margin: 0px;
+}
+
+#navigation, .navbar .navbar-expand-lg .fixed-top .p-0 {
+	background: url("img/tlomenu.jpg");
+}
+
+#logoside {
+	margin: 0;
+}
+
+.navbar-brand {
+	max-height: 120px;
+}
+
+.navbar-toggler-icon {
+	font-size: 30px;
+}
+
+#logo {
+	margin: 0;
+	max-height: 120px;
+	width: 100%;
+	text-align: center;
+}
+
+.nav-fill .nav-item {
+	margin: auto 5px;
+	padding: 0;
+}
+
+.nav-fill .nav-item .nav-link {
+	color: rgb(22, 67, 212);
+	font-size: 28px;
+}
+
+.nav-fill .nav-item .nav-link:hover {
+	font-size: 30px;
+	color: rgb(7, 118, 209);
+	text-decoration: underline;
+}
+
+section {
+	margin-top: 0px;
+	height: auto;
+}
+
+.slider {
+	margin-top: 150px;
+}
+
+
+.slides {
+	display: none;
+	width: 100%;
+	
+}
+
+.fade {
+	animation-name: fade;
+	animation-duration: 2s;
+}
+
+.fade:not(.show) {
+    opacity: 1;
+}
+
+@keyframes fade {
+	from{opacity: 0.4;}
+	to{opacity: 1;}
+}
+
+.slide {
+	border-radius: 40px;
+	box-shadow: 5px 5px 20px #182019;
+	opacity: 0.95;
+}
+
+.number {
+ 	position: absolute;
+ 	padding: 8px 16px;
+ 	color: #f2f2f2;
+}
+
+.slide-caption {
+	text-align: center;
+	position: relative;
+	width: auto;
+	padding: 8px 0px;
+	bottom: 180px;
+	color: #f2f2f2;
+	font-weight: bold;
+	font-size: auto;
+	z-index: 1;
+}
+
+.prev,.next {
+	position: absolute;
+	top: 37%;
+	color: #f2f2f2;
+	padding: 10px 20px;
+	font-size: 28px;
+	border-radius: 0 5px 5px 0;
+	cursor: pointer;
+}
+
+.next {
+	right: 15px;
+	border-radius: 5px 0 0 5px;
+}
+
+.container-fluid .slider .slidshow-container a {
+	color: #f2f2f2;
+}
+
+.prev:hover,.next:hover {
+	background: rgba(0,0,0,0.6);
+}
+
+.dots {
+	text-align: center;
+}
+
+.dot {
+	width: 13px;
+	height: 13px;
+	display: inline-block;
+	background: rgb(22, 67, 212);
+	padding: 15px;
+	margin: 5px;
+	border-radius: 50%;
+	cursor: pointer;
+}
+.active,.dot:hover {
+	background: rgb(168, 12, 12); 
+}
+
+#therapies {
+	margin-top: 30px;
+}
+
+figure {
+	padding: 0px;
+	text-align: center;
+}
+
+.tail {
+	max-height: 320px;
+	width: 100%; 
+	padding: 5px;
+	margin: 2px;
+	border-radius: 40px;
+	box-shadow: 5px 5px 20px #182019;
+	opacity: 0.95;
+	
+}
+
+#therapies .tail:hover{
+	opacity: 1;
+	transition: 5s easy-in-out;
+}
+
+figcaption {
+	text-align: center;
+	font-style: italic;
+	font-size: 30px;
+	margin-top: 8px;
+}
+
+#subscript {
+	width: 100%;
+	height: 60px;
+	background-color: blue;
+}
+
+#time {
+	width: 50%;
+	font-size: 36px;
+	text-align: center;
+	margin: auto 0px;
+	float: left;
+	color: gray;
+}
+
+#ftcontact {
+	margin: auto 0;
+}
+
+#email {
+	text-align: center;
+	color: gray;
+	font-size: 20px;
+}
+
+#phone {
+	text-align: center;
+	color: grey;
+	font-size: 20px;
+	margin: auto 0;
+}
+
+#copyright {
+	font-size: 10px;
+	text-align: right;
+}
+
+.scrollup {
+	width: 64px;
+	height: 64px;
+	text-decoration: none;
+	background: url("img/up.png") no-repeat 0px 0px;
+	position: fixed;
+	right: 50px;
+	bottom: 50px;
+	z-index: 1;
+}
+
+
+
+
+
+
+body::-webkit-scrollbar {
+	width: 13px;
+}
+
+body::-webkit-scrollbar-track {
+	background: url("img/light-grey-terrazzo.png");
+	border-radius: 20px;
+	-webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.8);
+}
+
+body::-webkit-scrollbar-thumb {
+	background-color: #1c74b2;
+	border-radius: 20px;
+	-webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.8);
+}

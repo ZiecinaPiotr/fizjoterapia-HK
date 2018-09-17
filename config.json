@@ -1,0 +1,70 @@
+{
+  "name": "1",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "8045477f6a7ef0bd7caff130ad25b88d",
+      "css": "facebook-rect",
+      "code": 62209,
+      "src": "brandico"
+    },
+    {
+      "uid": "a17986e457f3d85f26c9c240dfd6a4ba",
+      "css": "mail",
+      "code": 59393,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "eb2d71e114d99d85b2ae28ab70d981a6",
+      "css": "call",
+      "code": 59394,
+      "src": "zocial"
+    },
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "mail-alt",
+      "code": 61664,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "8e04c98c8f5ca0a035776e3001ad2638",
+      "css": "facebook",
+      "code": 61594,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2cfb3f2b46b34a1790aec0aa846297b6",
+      "css": "menu",
+      "code": 59395,
+      "src": "entypo"
+    },
+    {
+      "uid": "24eiet6l58t0myywueih34b0e5a30bw1",
+      "css": "phone",
+      "code": 59392,
+      "src": "typicons"
+    },
+    {
+      "uid": "1b58555745e7378f7634ee7c63eada46",
+      "css": "th-list",
+      "code": 61449,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "84d19120538dd143b9cf5433f2417f48",
+      "css": "th-list-1",
+      "code": 59396,
+      "src": "websymbols"
+    },
+    {
+      "uid": "4a74a0f87d4089efe7aba1825bff4193",
+      "css": "copyright",
+      "code": 61945,
+      "src": "fontawesome"
+    }
+  ]
+}
