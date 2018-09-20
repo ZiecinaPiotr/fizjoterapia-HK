@@ -86,18 +86,6 @@ section {
  	color: #f2f2f2;
 }
 
-.slide-caption {
-	text-align: center;
-	position: relative;
-	width: auto;
-	padding: 8px 0px;
-	bottom: 180px;
-	color: #f2f2f2;
-	font-weight: bold;
-	font-size: auto;
-	z-index: 1;
-}
-
 .prev,.next {
 	position: absolute;
 	top: 37%;
@@ -123,6 +111,7 @@ section {
 
 .dots {
 	text-align: center;
+	padding-top: 25px;
 }
 
 .dot {
@@ -131,7 +120,7 @@ section {
 	display: inline-block;
 	background: rgb(22, 67, 212);
 	padding: 15px;
-	margin: 5px;
+	margin: 15px;
 	border-radius: 50%;
 	cursor: pointer;
 }
@@ -155,7 +144,7 @@ figure {
 	margin: 2px;
 	border-radius: 40px;
 	box-shadow: 5px 5px 20px #182019;
-	opacity: 0.95;
+	opacity: 0.90;
 	
 }
 
@@ -211,6 +200,7 @@ figcaption {
 .scrollup {
 	width: 64px;
 	height: 64px;
+	display: none;
 	text-decoration: none;
 	background: url("img/up.png") no-repeat 0px 0px;
 	position: fixed;
@@ -239,3 +229,31 @@ body::-webkit-scrollbar-thumb {
 	border-radius: 20px;
 	-webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.8);
 }
+
+
+
+/*Style about-me.html */ 
+
+.about-me {
+	margin-top: 150px;
+}
+
+.my-photo { 
+	margin-bottom: 0;
+	
+}
+
+.my-photo .img-fluid {
+	border-radius: 10px;
+	box-shadow: 5px 5px 20px #182019;
+}
+
+#my-photo-figcaption {
+	font-size: 3vw;
+	text-decoration-line: underline;
+}
+
+.main-description {
+	font-size: 2vw;
+}
+
