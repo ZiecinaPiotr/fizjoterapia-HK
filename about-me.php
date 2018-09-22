@@ -2,6 +2,15 @@
 <html>
 
 <head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta http equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<title>O mnie - Hubert Kostka</title>
+
+	<meta name="description" content="Opis w google" />
+	<meta name="keywords" content="Terapia manualna, Kinesiotaping, Dry Needling, Suche igłowanie, Rehabilitacja ortopedyczna, Strzelin"
+	/>
 	<?php include('head.php'); ?>
 </head>
 
@@ -27,6 +36,35 @@
 						</div>
 					</div>	
 				</div>
+				<div class="container certyfications">
+					<div class="row">
+						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 offset-md-2 col-lg-4 offset-lg-2">
+								<img class="img-fluid certyficate" src="img/diploma1.jpg" alt="" />
+						</figure>
+						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
+								<img class="img-fluid certyficate" src="img/certyficate17.jpg" alt="" />
+						</figure>
+						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
+								<img class="img-fluid certyficate" src="img/certyficate2.jpg" alt="" />
+						</figure>
+						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
+								<img class="img-fluid certyficate" src="img/certyficate3.jpg" alt="" />
+						</figure>
+						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
+								<img class="img-fluid certyficate" src="img/certyficate1.jpg" alt="" />
+						</figure>
+						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
+								<img class="img-fluid certyficate" src="img/certyficate5.jpg" alt="" />
+						</figure>
+						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
+								<img class="img-fluid certyficate" src="img/certyficate6.jpg" alt="" />
+						</figure>
+						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
+								<img class="img-fluid certyficate" src="img/certyficate4.jpg" alt="" />
+						</figure>
+					</div>	
+				</div>
+
 			</section>
 
 			</div>

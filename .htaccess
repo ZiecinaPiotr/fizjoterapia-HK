@@ -5,8 +5,6 @@ Deny from all
 </FilesMatch>
 
 RewriteEngine on
-RewriteRule zatrudnij-programiste-webowego index.html
-RewriteRule kim-jestem kimjestem.html
-RewriteRule oferta-tworzenie-stron-www oferta.html
-RewriteRule cv-programista-php-javascript cv.html
-RewriteRule kontakt-programista-php kontakt.html
+RewriteRule Fizjoterapia-Hubert-Kostka index.php
+RewriteRule O-mnie about-me.php
+RewriteRule Terapia-manualna manual-therapy.php
