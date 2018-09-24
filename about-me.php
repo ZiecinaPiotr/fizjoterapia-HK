@@ -23,7 +23,7 @@
 				<div class="container about-me">
 					<div class="row">
 						<figure class="col-6 offset-3 col-sm-8 offset-sm-2 col-md-4 offset-md-0 my-photo">
-								<img class="img-fluid" src="img/HubertKostka.jpg" alt="Hubert Kostka" />
+								<img class="img-fluid" src="img/about-me/HubertKostka.jpg" alt="Hubert Kostka" />
 							<figcaption id="my-photo-figcaption">Hubert Kostka</figcaption>
 						</figure>
 						<div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-0 main-description">
@@ -39,28 +39,28 @@
 				<div class="container certyfications">
 					<div class="row">
 						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 offset-md-2 col-lg-4 offset-lg-2">
-								<img class="img-fluid certyficate" src="img/diploma1.jpg" alt="" />
+								<img class="img-fluid certyficate" src="img/about-me/diploma1.jpg" alt="" />
 						</figure>
 						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
-								<img class="img-fluid certyficate" src="img/certyficate17.jpg" alt="" />
+								<img class="img-fluid certyficate" src="img/about-me/certyficate17.jpg" alt="" />
 						</figure>
 						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
-								<img class="img-fluid certyficate" src="img/certyficate2.jpg" alt="" />
+								<img class="img-fluid certyficate" src="img/about-me/certyficate2.jpg" alt="" />
 						</figure>
 						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
-								<img class="img-fluid certyficate" src="img/certyficate3.jpg" alt="" />
+								<img class="img-fluid certyficate" src="img/about-me/certyficate3.jpg" alt="" />
 						</figure>
 						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
-								<img class="img-fluid certyficate" src="img/certyficate1.jpg" alt="" />
+								<img class="img-fluid certyficate" src="img/about-me/certyficate1.jpg" alt="" />
 						</figure>
 						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
-								<img class="img-fluid certyficate" src="img/certyficate5.jpg" alt="" />
+								<img class="img-fluid certyficate" src="img/about-me/certyficate5.jpg" alt="" />
 						</figure>
 						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
-								<img class="img-fluid certyficate" src="img/certyficate6.jpg" alt="" />
+								<img class="img-fluid certyficate" src="img/about-me/certyficate6.jpg" alt="" />
 						</figure>
 						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
-								<img class="img-fluid certyficate" src="img/certyficate4.jpg" alt="" />
+								<img class="img-fluid certyficate" src="img/about-me/certyficate4.jpg" alt="" />
 						</figure>
 					</div>	
 				</div>

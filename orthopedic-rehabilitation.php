@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta http equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-	<title>Fizjoterapia - Terapia manualna</title>
+	<title>Fizjoterapia - Rehabilitacja ortopedyczna</title>
 
 	<meta name="description" content="Opis w google" />
 	<meta name="keywords" content="Terapia manualna, Kinesiotaping, Dry Needling, Suche igłowanie, Rehabilitacja ortopedyczna, Strzelin"
@@ -17,13 +17,13 @@
 <body>
   <?php include('menu.php'); ?>
   <main>
-    <div class="container" id="manual-therapy-container">
+    <div class="container" id="orthopedic-rehabilitation-container">
 			<div class="row">
 				<figure class="col-8 offset-2 col-sm-6 offset-sm-3 col-md-6 col-lg-4 offset-lg-0">
-          <img class="img-fluid" id="manual-therapy-photo" src="img/manual-therapy/terapia-manualna-3.jpg" alt="Terapia manualna" />
-          <figcaption>Terapia manualna</figcaption>
+          <img class="img-fluid" id="orthopedic-rehabilitation-photo" src="img/orthopedic-rehabilitation/rehabilitacjaorto1.jpg" alt="Rehabilitacja ortopedyczna" />
+          <figcaption>Rehabilitacja ortopedyczna</figcaption>
         </figure>
-				<div class="col-10 offset-1 col-sm-10 offset-1 col-md-12 offset-md-0 col-lg-8 offset-lg-0 manual-therapy-description">
+				<div class="col-10 offset-1 col-sm-10 offset-1 col-md-12 offset-md-0 col-lg-8 offset-lg-0 orthopedic-rehabilitation-description">
 					 <p>Terapią manualną nazywamy zabieg, w którym terapeuta, wykorzystując odpowiednie chwyty, elementy masażu oraz manipulacje za pomocą swoich dłoni, leczy zaburzenia w obrębie całego układu mięśniowo-szkieletowego. Podczas zabiegu można usłyszeć charakterystyczny ,,trzask'' jak przy nastawianiu.
 					Terapię manualną zaleca się najczęściej w:<br>
 					<p>• zmniejszenie/ograniczenie zakresu ruchu (np. na tle zmian przeciążeniowych, zwyrodnieniowych lub urazowych) stawu<br>

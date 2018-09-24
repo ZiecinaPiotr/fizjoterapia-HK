@@ -49,6 +49,10 @@ section {
 	height: auto;
 }
 
+.slidshow-container {
+	width: 100%;
+}
+
 .slider {
 	margin-top: 150px;
 }
@@ -57,7 +61,6 @@ section {
 .slides {
 	display: none;
 	width: 100%;
-	
 }
 
 .fade {
@@ -212,8 +215,6 @@ figcaption {
 
 
 
-
-
 body::-webkit-scrollbar {
 	width: 13px;
 }
@@ -284,7 +285,7 @@ body::-webkit-scrollbar-thumb {
 		padding: 5px;
 		margin: 2px;
 		border-radius: 20px;
-		box-shadow: 5px 5px 20px #182019;
+		box-shadow: 5px 5px 20px #182019; 
 }
 
 .container .row .manual-therapy-description p {
@@ -296,6 +297,89 @@ body::-webkit-scrollbar-thumb {
 }
 
 .container .row .manual-therapy-description {
+	font-size: 2vw;
+	text-align: justify;
+}
+
+/*style kinesiotaping */
+
+#kinesiotaping-container {
+	padding-top: 150px;
+}
+
+#kinesiotaping-photo {
+	padding: 5px;
+	margin: 2px;
+	border-radius: 20px;
+	box-shadow: 5px 5px 20px #182019; 
+}
+
+.container .row .kinesiotaping-description p {
+	text-indent: 30px;
+}
+
+.container .row figure figcaption {
+	font-size: 3vw;
+}
+
+.container .row .kinesiotaping-description {
+	font-size: 2vw;
+	text-align: justify;
+}
+
+/*style dry-needling */
+
+#dry-needling-container {
+	padding-top: 150px;
+}
+
+#dry-needling-photo {
+	padding: 5px;
+	margin: 2px;
+	border-radius: 20px;
+	box-shadow: 5px 5px 20px #182019; 
+}
+
+.container .row .dry-needling-description p {
+	text-indent: 30px;
+}
+
+.container .row figure figcaption {
+	font-size: 3vw;
+}
+
+.container .row .dry-needling-description {
+	font-size: 2vw;
+	text-align: justify;
+}
+
+.container .row .dry-needling-description h3 {
+	margin: 0;
+	text-align: center;
+}
+
+/*style orthopedic-rehabilitation */
+
+#orthopedic-rehabilitation-container {
+	padding-top: 150px;
+}
+
+#orthopedic-rehabilitation-photo {
+	padding: 5px;
+	margin: 2px;
+	border-radius: 20px;
+	box-shadow: 5px 5px 20px #182019; 
+}
+
+.container .row .orthopedic-rehabilitation-description p {
+	text-indent: 30px;
+}
+
+.container .row figure figcaption {
+	font-size: 3vw;
+}
+
+.container .row .orthopedic-rehabilitation-description {
 	font-size: 2vw;
 	text-align: justify;
 }

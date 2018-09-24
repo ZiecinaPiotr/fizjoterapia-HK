@@ -25,17 +25,17 @@
             <div class="col-sm-12 col-md-10 offset-md-1 slider">
 
               <div class="slidshow-container">
-                <div class="slides fade">
+                <div class="slides fade ">
                   <div class="number">1 / 3</div>
-                  <div><img class="img-fluid slide" src="img/probnyslajd1.jpg"></div>
+                  <div><img class="img-fluid slide" src="img/main-page/probnyslajd1.jpg"></div>
                 </div>
                 <div class="slides fade">
                   <div class="number">2 / 3</div>
-                  <div><img class="img-fluid slide" src="img/probnyslajd2.jpg"></div>
+                  <div><img class="img-fluid slide" src="img/main-page/probnyslajd2.jpg"></div>
                 </div>
                 <div class="slides fade">
                   <div class="number">3 / 3</div>
-                  <div><img class="img-fluid slide" src="img/probnyslajd3.jpg"></div>
+                  <div><img class="img-fluid slide" src="img/main-page/probnyslajd3.jpg"></div>
                 </div>
                 <a class="prev" onclick="plusIndex(-1)">&#10094</a>
                 <a class="next" onclick="plusIndex(+1)">&#10095</a>
@@ -54,19 +54,19 @@
         <div class="container">
           <div class="row" id="therapies">
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-lg-5 offset-lg-1">
-              <a href="Terapia-manualna"><img class="img-fluid tail" src="img/terapiamanu1.jpg" alt="Terapia manualna" /></a>
+              <a href="Terapia-manualna"><img class="img-fluid tail" src="img/manual-therapy/terapia-manualna-3.jpg" alt="Terapia manualna" /></a>
               <figcaption>Terapia manualna</figcaption>
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-lg-5 offset-lg-0">
-              <a href="#"><img class="img-fluid tail" src="img/kinesiotaping1.jpg" alt="Kinesiotaping" /> </a>
+              <a href="Kinesiotaping"><img class="img-fluid tail" src="img/kinesiotaping/kinesiotaping1.jpg" alt="Kinesiotaping" /> </a>
               <figcaption>Kinesiotaping</figcaption>
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-lg-5 offset-lg-1">
-              <a href="#"><img class="img-fluid tail" src="img/sucheIglowanie1.jpg" alt="Suche igłowanie" /> </a>
+              <a href="Suche-igłowanie"><img class="img-fluid tail" src="img/dry-needling/sucheIglowanie1.jpg" alt="Suche igłowanie" /> </a>
               <figcaption>Suche igłowanie</figcaption>
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-lg-5 offset-lg-0">
-              <a href="#"><img class="img-fluid tail" src="img/rehabilitacjaorto1.jpg" alt="Rehabilitacja ortopedyczna" /> </a>
+              <a href="Rehabilitacja-ortopedyczna"><img class="img-fluid tail" src="img/orthopedic-rehabilitation/rehabilitacjaorto1.jpg" alt="Rehabilitacja ortopedyczna" /> </a>
               <figcaption>Rehabilitacja ortopedyczna</figcaption>
             </figure>
           </div>

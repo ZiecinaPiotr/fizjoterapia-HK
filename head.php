@@ -5,8 +5,8 @@
 	<link rel="stylesheet" href="css/1.css" type="text/css" />
 
 
-	<script src="jquery-3.3.1.js"></script>
-  <script src="jquery.scrollTo.min.js"></script>
-  <script src="jquery.tabSlideOut.js"></script>
-	<script src="timerandscroll.js"></script>
+	<script src="js/jquery-3.3.1.js"></script>
+  <script src="js/jquery.scrollTo.min.js"></script>
+  <script src="js/jquery.tabSlideOut.js"></script>
+	<script src="js/timerandscroll.js"></script>
 	
