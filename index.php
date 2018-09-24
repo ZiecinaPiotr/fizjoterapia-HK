@@ -50,7 +50,6 @@
 
           </div>
         </div>
-        </div>
         <div class="container">
           <div class="row" id="therapies">
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-lg-5 offset-lg-1">

@@ -7,6 +7,11 @@ Deny from all
 RewriteEngine on
 RewriteRule Fizjoterapia-Hubert-Kostka index.php
 RewriteRule O-mnie about-me.php
+RewriteRule Oferta offer.php
+RewriteRule Galeria gallery.php
+RewriteRule Kontakt contact.php
+RewriteRule Współpraca cooperation.php 
+RewriteRule Logowanie login.php
 RewriteRule Terapia-manualna manual-therapy.php
 RewriteRule Kinesiotaping kinesiotaping.php
 RewriteRule Suche-igłowanie dry-needling.php

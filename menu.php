@@ -14,19 +14,19 @@
 					<a class="nav-link " href="O-mnie">O mnie</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Oferta</a>
+					<a class="nav-link" href="Oferta">Oferta</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Galeria</a>
+					<a class="nav-link" href="Galeria">Galeria</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Kontakt</a>
+					<a class="nav-link" href="Kontakt">Kontakt</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Współpraca</a>
+					<a class="nav-link" href="Współpraca">Współpraca</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Logowanie</a>
+					<a class="nav-link" href="Logowanie">Logowanie</a>
 				</li>
 
 			</ul>

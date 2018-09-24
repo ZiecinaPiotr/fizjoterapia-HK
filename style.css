@@ -273,8 +273,53 @@ body::-webkit-scrollbar-thumb {
 	box-shadow: 5px 5px 20px #182019;
 }
 
+/*style gallery*/
+
+#gallery {
+	padding-top: 150px;
+}
 
 
+
+.tail-gallery {
+	max-height: 250px;
+	width: 100%; 
+	padding: 5px;
+	margin: 2px;
+	border-radius: 30px;
+	box-shadow: 5px 5px 20px #182019;
+	opacity: 0.90;
+	
+}
+
+/* #gallery .tail-gallery:hover{
+	opacity: 1;
+	transition: 5s easy-in-out;
+} */
+
+
+/*style contact*/
+
+#contact {
+	padding-top: 150px;
+}
+
+#google-map {
+	height: 350px;
+	width: 100%; 
+	padding: 5px;
+	margin: 2px;
+	box-shadow: 5px 5px 20px #182019;
+}
+
+#entrance-door {
+	max-height: 350px;
+	width: 100%; 
+	padding: 5px;
+	margin: 2px;
+	border-radius: 30px;
+	box-shadow: 5px 5px 20px #182019;
+}
 
 /*style manual therapy*/
 #manual-therapy-container {
