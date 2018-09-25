@@ -17,6 +17,7 @@
 <body>
   <?php include('menu.php'); ?>
   <main>
+    <a href="#" class="scrollup"></a>
     <div class="container" id="kinesiotaping-container">
 			<div class="row">
 				<figure class="col-8 offset-2 col-sm-6 offset-sm-3 col-md-6 col-lg-4 offset-lg-0">

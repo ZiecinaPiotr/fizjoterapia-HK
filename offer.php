@@ -15,10 +15,20 @@
 </head>
 
 <body>
-  <?php include('menu.php'); ?>
-  <main>
-    
-  </main>
-	<?php include('footer.php'); ?>
+	<?php include('menu.php'); ?>
+
+	<main>
+    	<section>
+				<a href="#" class="scrollup"></a>
+				
+
+			</section>
+			</div>
+	</main>
+  <?php include('footer.php'); ?>
+
+  <script src="js/bootstrap.min.js"></script>
+
 </body>
+
 </html>
