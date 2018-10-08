@@ -5,6 +5,8 @@ body{
 	margin: 0px;
 }
 
+/*nav-bar style*/
+
 #navigation, .navbar .navbar-expand-lg .fixed-top .p-0 {
 	background: url("img/tlomenu.jpg");
 }
@@ -14,7 +16,7 @@ body{
 }
 
 .navbar-brand {
-	max-height: 120px;
+	max-height: 110px;
 }
 
 .navbar-toggler-icon {
@@ -163,6 +165,8 @@ figcaption {
 	margin-top: 8px;
 }
 
+/*style footer*/
+
 #subscript {
 	width: 100%;
 	height: 60px;
@@ -170,11 +174,9 @@ figcaption {
 }
 
 #time {
-	width: 50%;
-	font-size: 36px;
+	font-size: 100%;
 	text-align: center;
 	margin: auto 0px;
-	float: left;
 	color: gray;
 }
 
@@ -183,9 +185,14 @@ figcaption {
 }
 
 #email {
+	padding: 0px;
 	text-align: center;
 	color: gray;
 	font-size: 20px;
+}
+
+#email-footer {
+	padding-left: 10px;
 }
 
 #phone {
@@ -273,6 +280,28 @@ body::-webkit-scrollbar-thumb {
 	box-shadow: 5px 5px 20px #182019;
 }
 
+/*style offer*/
+
+#offer {
+	margin-top: 150px;
+	margin-bottom: 42px;
+}
+
+.container .row #offer h1 {
+	text-align: center;
+	font-style: oblique;
+	text-decoration: underline;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+.container .row #offer h3{
+	text-align: center;
+	font-style: oblique;
+	font-weight: bold;
+	padding-bottom: 15px;
+}
+
 /*style gallery*/
 
 #gallery {
@@ -301,27 +330,78 @@ body::-webkit-scrollbar-thumb {
 /*style contact*/
 
 #contact {
-	padding-top: 150px;
-	padding-bottom: 100px;
+	padding-top: 130px;
+	padding-bottom: 20px;
 }
+
+#contact-details {
+	padding: 20px;
+}
+
+#phone-box {
+	text-align: center;
+	padding: 10px 0;
+	font-size: 100%;
+	margin: auto 0;
+}
+
+/* .icon-call {
+	font-size: 5vh;
+} */
+
+#phone-contact {
+	padding-left: 10px;
+}
+
+#email-box {
+	text-align: center;
+	padding: 10px 0;
+	color: black;
+	font-size: 20px;
+}
+
+.icon-gmail {
+	size: 30px;
+	color: rgb(168, 12, 12);
+}
+
+#email-contact {
+	padding-left: 10px;
+}
+
+#facebook-box {
+	text-align: center;
+	padding: 2.5px 0;
+	color: gray;
+	font-size: 20px;
+}
+
+.icon-facebook-official {
+	color: #1c74b2;
+	font-size: 30px;
+}
+
+#adress {
+	padding: 2px 0;
+}
+
+#open-hours {
+	padding: 5px 0;
+}
+
+#contact-details .container .row  
 
 #map {
-	margin-bottom: 20px;
-}
-
-#google-map {
-	padding: 5px;
 	margin-bottom: 20px;
 	border-radius: 5px;
 	box-shadow: 5px 5px 20px #182019;
 }
 
 #entrance-door {
-	max-height: 350px;
-	width: 100%; 
+	max-height: 400px;
 	padding: 5px;
-	margin: 2px;
-	border-radius: 30px;
+	margin: 20px 0px;
+	border-radius: 5px;
 	box-shadow: 5px 5px 20px #182019;
 }
 
@@ -332,9 +412,16 @@ body::-webkit-scrollbar-thumb {
 	padding-bottom: 15px;
 }
 
+.container .row #contact-details h3 {
+	text-align: center;
+	font-weight: bold;
+	padding-bottom: 15px;
+}
+
 .container .row #contact-details h4 {
 	text-align: center;
-	padding: 10px 0px;
+	padding: 5px 0px;
+
 }
 
 .container .row #contact-details h5 {
@@ -342,12 +429,13 @@ body::-webkit-scrollbar-thumb {
 }
 
 #email-form {
-	padding-bottom: 15px;
+	padding-bottom: 20px;
 }
 
 /*style manual therapy*/
 #manual-therapy-container {
 	padding-top: 150px;
+	margin-bottom: 20px;
 }
 
 #manual-therapy-photo {
@@ -362,11 +450,13 @@ body::-webkit-scrollbar-thumb {
 }
 
 .container .row figure figcaption {
-	font-size: 3vw;
+	font-size: 3.5vh;
+	font-weight: bold;
+	margin-top: 20px;
 }
 
 .container .row .manual-therapy-description {
-	font-size: 2vw;
+	font-size: 3vh;
 	text-align: justify;
 }
 
@@ -374,11 +464,13 @@ body::-webkit-scrollbar-thumb {
 
 #kinesiotaping-container {
 	padding-top: 150px;
+	padding-bottom: 30px;
 }
 
 #kinesiotaping-photo {
 	padding: 5px;
 	margin: 2px;
+	max-height: 350px;
 	border-radius: 20px;
 	box-shadow: 5px 5px 20px #182019; 
 }
@@ -388,18 +480,21 @@ body::-webkit-scrollbar-thumb {
 }
 
 .container .row figure figcaption {
-	font-size: 3vw;
+	font-size: 3.5vh;
+	font-weight: bold;
+	margin-top: 20px;
 }
 
 .container .row .kinesiotaping-description {
-	font-size: 2vw;
+	font-size: 3.5vh;
 	text-align: justify;
 }
 
 /*style dry-needling */
 
 #dry-needling-container {
-	padding-top: 150px;
+	padding-top: 140px;
+	padding-bottom: 20px;
 }
 
 #dry-needling-photo {
@@ -414,16 +509,20 @@ body::-webkit-scrollbar-thumb {
 }
 
 .container .row figure figcaption {
-	font-size: 3vw;
+	font-size: 3.5vh;
+	font-weight: bold;
+	margin-top: 20px;
 }
 
 .container .row .dry-needling-description {
-	font-size: 2vw;
+	font-size: 3vh;
 	text-align: justify;
+	padding-left: 15px;
 }
 
 .container .row .dry-needling-description h3 {
 	margin: 0;
+	font-size: 4vh;
 	text-align: center;
 }
 
@@ -441,14 +540,16 @@ body::-webkit-scrollbar-thumb {
 }
 
 .container .row .orthopedic-rehabilitation-description p {
-	text-indent: 30px;
+	text-indent: 15px;
 }
 
 .container .row figure figcaption {
-	font-size: 3vw;
+	font-size: 3.5vh;
+	font-weight: bold;
+	margin-top: 20px;
 }
 
 .container .row .orthopedic-rehabilitation-description {
-	font-size: 2vw;
+	font-size: 3vh;
 	text-align: justify;
 }

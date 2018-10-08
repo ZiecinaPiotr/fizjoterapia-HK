@@ -8,7 +8,7 @@
 
 	<title>Fizjoterapia - Suche igłowanie</title>
 
-	<meta name="description" content="Opis w google" />
+	<meta name="description" content="Gabinet Fizjoterapeutyczny Fizjoterapia Hubert Kostka zaprasza na zabiegi z terapii manualnej, masaże, fizykoterapii oraz rehabilitacji sportowej." />
 	<meta name="keywords" content="Terapia manualna, Kinesiotaping, Dry Needling, Suche igłowanie, Rehabilitacja ortopedyczna, Strzelin"
 	/>
 	<?php include('head.php'); ?>
@@ -19,12 +19,12 @@
   <main>
     <div class="container" id="dry-needling-container">
 			<div class="row">
-				<figure class="col-8 offset-2 col-sm-6 offset-sm-3 col-md-6 col-lg-4 offset-lg-0">
+				<figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-md-5 offset-md-0">
           <img class="img-fluid" id="dry-needling-photo" src="img/dry-needling/sucheIglowanie1.jpg" alt="Suche igłowanie" />
           <figcaption>Suche igłowanie</figcaption>
         </figure>
-				<div class="col-10 offset-1 col-sm-10 offset-1 col-md-12 offset-md-0 col-lg-8 offset-lg-0 dry-needling-description">
-					 <h3>Suche igłowanie ,,Dry needling''</h3>
+				<div class="col-12 col-md-7 dry-needling-description">
+					 <h3>Suche igłowanie - ,,Dry needling''</h3>
             <br><p>Celem zabiegu jest opracowanie punktów spustowych bądź napiętych struktur (miogeloz, obejm, muld) w obrębie mięśni  za pomocą igły.
             Drażnienie igłą tych punktów wywołuje impuls, który przechodząc przez rdzeń kręgowy, trafia do włókien mięśniowych napiętego pasma, 
             wywołując bezwarunkowy odruch, jakim jest lokalny skurcz mięśniowy tzw. twitch. Prowadzi to do rozluźnienia, a ostatecznie uśmierzenia bólu.
@@ -44,6 +44,6 @@
 	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> -->
 
 	<script src="js/bootstrap.min.js"></script>
-
+  <script src="js/jquery.fancybox.min.js"></script>
 </body>
 </html>

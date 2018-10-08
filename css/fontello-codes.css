@@ -1,7 +1,16 @@
 
-.icon-phone-outline:before { content: '\e800'; } /* '' */
+.icon-phone:before { content: '\e800'; } /* '' */
 .icon-mail:before { content: '\e801'; } /* '' */
 .icon-call:before { content: '\e802'; } /* '' */
-.icon-whatsapp:before { content: '\f232'; } /* '' */
-.icon-envelope-open-o:before { content: '\f2b7'; } /* '' */
+.icon-menu:before { content: '\e803'; } /* '' */
+.icon-th-list-1:before { content: '\e804'; } /* '' */
+.icon-up-open:before { content: '\e805'; } /* '' */
+.icon-up-outline:before { content: '\e806'; } /* '' */
+.icon-gmail:before { content: '\e807'; } /* '' */
+.icon-up-open-1:before { content: '\f005'; } /* '' */
+.icon-th-list:before { content: '\f009'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; } /* '' */
+.icon-copyright:before { content: '\f1f9'; } /* '' */
+.icon-facebook-official:before { content: '\f230'; } /* '' */
 .icon-facebook-rect:before { content: '\f301'; } /* '' */

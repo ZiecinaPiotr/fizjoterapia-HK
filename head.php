@@ -1,10 +1,11 @@
 	<link rel="shortcut icon" href="img/logoprzez.ico" type="image/x-icon">
 	
-	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css" />
 	<link rel="stylesheet" href="style.css" type="text/css" />
-	<link href="https://fonts.googleapis.com/css?family=Lato:400,700&amp;subset=latin-ext" rel="stylesheet">
 	<link rel="stylesheet" href="css/fontello.css" type="text/css" />
-	<link rel="stylesheet" href="css/1.css" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Lato:400,700&amp;subset=latin-ext" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="jquery.fancybox.min.css">
+	
 
 
 	<script src="js/jquery-3.3.1.js"></script>

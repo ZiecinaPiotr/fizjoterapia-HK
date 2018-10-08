@@ -8,7 +8,7 @@
 
 	<title>O mnie - Hubert Kostka</title>
 
-	<meta name="description" content="Opis w google" />
+	<meta name="description" content="Gabinet Fizjoterapeutyczny Fizjoterapia Hubert Kostka zaprasza na zabiegi z terapii manualnej, masaże, fizykoterapii oraz rehabilitacji sportowej." />
 	<meta name="keywords" content="Terapia manualna, Kinesiotaping, Dry Needling, Suche igłowanie, Rehabilitacja ortopedyczna, Strzelin"
 	/>
 	<?php include('head.php'); ?>
@@ -77,7 +77,7 @@
   <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> -->
 
   <script src="js/bootstrap.min.js"></script>
-
+	<script src="js/jquery.fancybox.min.js"></script>
 
 </body>
 

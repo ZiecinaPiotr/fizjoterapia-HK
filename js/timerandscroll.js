@@ -70,6 +70,16 @@ $(window).scroll(function () {
 }
 );
 
+//powiekszanie obrazka
+
+$('[data-fancybox="preview"]').fancybox({
+  thumbs : {
+    autoStart : true
+  }
+});
+
+//czas i data
+
 function counting() {
 	var today = new Date();
 
@@ -88,6 +98,7 @@ function counting() {
 
 	document.getElementById("time").innerHTML =
 		day + "." + month + "." + year + " | " + hour + ":" + minute + ":" + second;
+
 
 	setTimeout("counting()", 1000);
 }

@@ -8,7 +8,7 @@
 
 	<title>Fizjoterapia - Hubert Kostka</title>
 
-	<meta name="description" content="Opis w google" />
+	<meta name="description" content="Gabinet Fizjoterapeutyczny Fizjoterapia Hubert Kostka zaprasza na zabiegi z terapii manualnej, masaże, fizykoterapii oraz rehabilitacji sportowej." />
 	<meta name="keywords" content="Terapia manualna, Kinesiotaping, Dry Needling, Suche igłowanie, Rehabilitacja ortopedyczna, Strzelin"
 	/>
 	<?php include('head.php'); ?>
@@ -57,11 +57,11 @@
               <figcaption>Terapia manualna</figcaption>
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-lg-5 offset-lg-0">
-              <a href="Kinesiotaping"><img class="img-fluid tail" src="img/kinesiotaping/kinesiotaping1.jpg" alt="Kinesiotaping" /> </a>
+              <a href="Kinesiotaping"><img class="img-fluid tail" src="img/kinesiotaping/kinesiotaping2.jpg" alt="Kinesiotaping" /> </a>
               <figcaption>Kinesiotaping</figcaption>
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-lg-5 offset-lg-1">
-              <a href="Suche-igłowanie"><img class="img-fluid tail" src="img/dry-needling/sucheIglowanie1.jpg" alt="Suche igłowanie" /> </a>
+              <a href="Suche-igłowanie"><img class="img-fluid tail" src="img/dry-needling/iglowanie_nowe2.jpg" alt="Suche igłowanie" /> </a>
               <figcaption>Suche igłowanie</figcaption>
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-lg-5 offset-lg-0">
@@ -81,7 +81,7 @@
 	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> -->
 
 	<script src="js/bootstrap.min.js"></script>
-
+  <script src="js/jquery.fancybox.min.js"></script>
 	
 </body>
 

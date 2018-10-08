@@ -8,7 +8,7 @@
 
 	<title>Fizjoterapia - Kinesiotaping</title>
 
-	<meta name="description" content="Opis w google" />
+	<meta name="description" content="Gabinet Fizjoterapeutyczny Fizjoterapia Hubert Kostka zaprasza na zabiegi z terapii manualnej, masaże, fizykoterapii oraz rehabilitacji sportowej." />
 	<meta name="keywords" content="Terapia manualna, Kinesiotaping, Dry Needling, Suche igłowanie, Rehabilitacja ortopedyczna, Strzelin"
 	/>
 	<?php include('head.php'); ?>
@@ -24,7 +24,7 @@
           <img class="img-fluid" id="kinesiotaping-photo" src="img/kinesiotaping/kinesiotaping1.jpg" alt="Kinesiotaping" />
           <figcaption>Kinesiotaping</figcaption>
         </figure>
-				<div class="col-10 offset-1 col-sm-10 offset-1 col-md-12 offset-md-0 col-lg-8 offset-lg-0 kinesiotaping-description">
+				<div class="col-12 col-lg-8 offset-lg-0 kinesiotaping-description">
         <p>Kinesiotaping działa przede wszystkim wykorzystując sensoryczne oddziaływanie plastra w celu uruchomienia możliwości kompensacyjnych organizmu. 
         Aplikacje pozwalają na zachowanie pełnego zakresu ruchu stawu, zmniejszenie napięcia mięśniowego, aktywowanie mięśni uszkodzonych, zmniejszają ból, a także likwidują obrzęki limfatyczne. 
         Poprzez bardzo zbliżoną strukturę plastra do struktury skóry odpowiednie naklejenie aplikacja powoduje efekt mechanicznego podniesienia, przez co następuje rozszerzenie wąskiej przestrzeni 
@@ -42,6 +42,6 @@
 	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> -->
 
 	<script src="js/bootstrap.min.js"></script>
-
+  <script src="js/jquery.fancybox.min.js"></script>
 </body>
 </html>

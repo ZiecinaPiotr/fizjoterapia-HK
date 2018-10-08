@@ -7,7 +7,7 @@
 			<span class="navbar-toggler-icon icon-th-list-1"></span>
 		</button>
 
-		<div class="collapse navbar-collapse offset-lg-1" id="navbarResidue">
+		<div class="collapse navbar-collapse" id="navbarResidue">
 			<ul class="navbar-nav nav-fill mx-auto p-0">
 
 				<li class="nav-item">

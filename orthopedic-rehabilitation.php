@@ -8,7 +8,7 @@
 
 	<title>Fizjoterapia - Rehabilitacja ortopedyczna</title>
 
-	<meta name="description" content="Opis w google" />
+	<meta name="description" content="Gabinet Fizjoterapeutyczny Fizjoterapia Hubert Kostka zaprasza na zabiegi z terapii manualnej, masaże, fizykoterapii oraz rehabilitacji sportowej." />
 	<meta name="keywords" content="Terapia manualna, Kinesiotaping, Dry Needling, Suche igłowanie, Rehabilitacja ortopedyczna, Strzelin"
 	/>
 	<?php include('head.php'); ?>
@@ -24,12 +24,16 @@
           <figcaption>Rehabilitacja ortopedyczna</figcaption>
         </figure>
 				<div class="col-10 offset-1 col-sm-10 offset-1 col-md-12 offset-md-0 col-lg-8 offset-lg-0 orthopedic-rehabilitation-description">
-					 <p>Terapią manualną nazywamy zabieg, w którym terapeuta, wykorzystując odpowiednie chwyty, elementy masażu oraz manipulacje za pomocą swoich dłoni, leczy zaburzenia w obrębie całego układu mięśniowo-szkieletowego. Podczas zabiegu można usłyszeć charakterystyczny ,,trzask'' jak przy nastawianiu.
-					Terapię manualną zaleca się najczęściej w:<br>
-					<p>• zmniejszenie/ograniczenie zakresu ruchu (np. na tle zmian przeciążeniowych, zwyrodnieniowych lub urazowych) stawu<br>
-					<p>• tzw. zablokowanie stawowe np. kręgosłupa, powodujące ból, ograniczający ruchy<br>
-					<p>• w dysfunkcjach mięśniowo-powięziowych,<br>
-					<p>• w zaburzeniach postawy ciała.<br>
+          <p>Rehabilitacja ortopedyczna przeznaczona jest dla osób z przebytymi urazami w obrębie kości (złamania), uszkodzenia więzadeł (naciągnięcia, zerwania, rekonstrukcje) 
+          zarówno w obrębie kończyny górnej jak i dolnej, jak również po przebytej artroskopii bądź endoprotezoplastyce.<br>
+
+          <p>Rehabilitacja po operacji powinna się rozpocząć możliwie jak najszybciej celem uniknięcia powikłań, jakie niesie za sobą zbyt długie unieruchomienie. 
+          Z drugiej jednak strony należy mieć na uwadze zbyt szybkie obciążanie pacjenta mogące nieść za sobą wiele nie pożądanych skutków. 
+          Dlatego też o decyzji, kiedy, jak i na ile można obciążyć po danym zabiegu staw, mięsień, więzadło decyduje zawsze chirurg. Natomiast to, 
+          jakich środków użyć, jak zaplanować etapy powrotu do pełnej funkcji spoczywa na barkach wykwalifikowanego fizjoterapeuty.<br>
+          <p>Celem mojej terapii jest jak najszybsze przywrócenie pacjenta/sportowca do pełni sprawności oraz możliwie jak najwcześniejszy powrót do pracy 
+          zawodowej bądź dyscypliny sportowej zgodnie z wyżej wymienionymi zasadami.
+
 				</div>
 			</div>
 		</div>
@@ -42,6 +46,6 @@
 	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> -->
 
 	<script src="js/bootstrap.min.js"></script>
-
+  <script src="js/jquery.fancybox.min.js"></script>
 </body>
 </html>
