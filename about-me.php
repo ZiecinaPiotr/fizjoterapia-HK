@@ -22,17 +22,16 @@
 				<a href="#" class="scrollup"></a>
 				<div class="container about-me">
 					<div class="row">
-						<figure class="col-6 offset-3 col-sm-8 offset-sm-2 col-md-4 offset-md-0 my-photo">
+						<figure class="col-6 offset-3 col-sm-4 offset-sm-4 col-md-3 offset-md-0 my-photo">
 								<img class="img-fluid" src="img/about-me/HubertKostka.jpg" alt="Hubert Kostka" />
-							<figcaption id="my-photo-figcaption">Hubert Kostka</figcaption>
+							<figcaption id="my-photo-figcaption">mgr Hubert Kostka</figcaption>
 						</figure>
-						<div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-0 main-description">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar eu ex sit amet ultricies. 
-								Sed lorem leo, fermentum eu ultricies non, gravida nec dui. Cras nunc ipsum, lacinia a mauris non, eleifend tincidunt velit. 
-								Phasellus finibus nunc ac vulputate porttitor. Duis sed lacus id tellus feugiat placerat id ac orci. Praesent egestas in nibh in mattis. 
-								Phasellus fringilla elit quis tortor vestibulum elementum. Integer vitae mollis erat. Fusce ut faucibus purus. 
-								Pellentesque cursus semper augue. Quisque eu dignissim magna. Sed quam diam, tempor ac fringilla vitae, consequat et ex. 
-								Fusce fringilla mattis magna, et iaculis dolor dictum nec.
+						<div class="col-10 offset-1 col-sm-12 offset-sm-0 col-md-9 main-description">
+							<p>Tytuł magistra fizjoterapii uzyskałem w Wyższej Szkole Fizjoterapii we Wrocławiu w 2014 roku. Prywatną praktykę prowadzę od 2012r.<br>
+							<p>Jestem człowiekiem łączącym w swoim życiu dwie pasje – fizjoterapię oraz sport. Moją najsilniejszą dziedziną fizjoterapii jest ortopedia.  <br>
+							<p>Specjalizuje się w terapii manualnej – zarówno „twardej” czyli kostnej, jak i w terapii tkanek miękkich. <br>
+							<p>Używam znanej w Polsce i niesamowicie skutecznej terapi "suchego igłowania". W swoim warsztacie pracy łączę techniki wielu szkół, tak, by jak najszybciej przynieść pacjentowi ulgę i przywrócić utracone funkcje. Uzyskuje świetne efekty pracy w leczeniu wielu schorzeń, takich jak: bóle stawów, bóle kręgosłupa, migreny, bóle mięśniowo powieziowe. <br>
+							<p>Do każdego z pacjentów podchodzę indywidualnie, nigdy nie stosując gotowych schematów postępowania. Staram się maksymalnie przeanalizować dany problem, tak by trwale usunąć przyczynę danej dolegliwości, a nie tylko jej skutek.
 						</div>
 					</div>	
 				</div>
@@ -42,7 +41,7 @@
 								<img class="img-fluid certyficate" src="img/about-me/diploma1.jpg" alt="" />
 						</figure>
 						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
-								<img class="img-fluid certyficate" src="img/about-me/certyficate17.jpg" alt="" />
+								<img class="img-fluid certyficate" src="img/about-me/nowe5.jpg" alt="" />
 						</figure>
 						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
 								<img class="img-fluid certyficate" src="img/about-me/certyficate2.jpg" alt="" />
@@ -54,13 +53,13 @@
 								<img class="img-fluid certyficate" src="img/about-me/certyficate1.jpg" alt="" />
 						</figure>
 						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
-								<img class="img-fluid certyficate" src="img/about-me/certyficate5.jpg" alt="" />
+								<img class="img-fluid certyficate" src="img/about-me/nowe6.jpg" alt="" />
 						</figure>
 						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
-								<img class="img-fluid certyficate" src="img/about-me/certyficate6.jpg" alt="" />
+								<img class="img-fluid certyficate" src="img/about-me/nowe8.jpg" alt="" />
 						</figure>
 						<figure class="col-8 offset-2 col-sm-6 offset-sm-0 col-md-4 col-lg-4">
-								<img class="img-fluid certyficate" src="img/about-me/certyficate4.jpg" alt="" />
+								<img class="img-fluid certyficate" src="img/about-me/nowe3.jpg" alt="" />
 						</figure>
 					</div>	
 				</div>
@@ -70,11 +69,6 @@
 			</div>
 	</main>
   <?php include('footer.php'); ?>
-
-
-  <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> -->
-
-  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> -->
 
   <script src="js/bootstrap.min.js"></script>
 	<script src="js/jquery.fancybox.min.js"></script>

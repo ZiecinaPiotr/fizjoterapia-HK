@@ -1,5 +1,5 @@
 body{
-	background: url("img/light-grey-terrazzo.png"); /* www.toptal.com/designers/subtlepatterns/*/
+	background: url("../img/light-grey-terrazzo.png"); /* www.toptal.com/designers/subtlepatterns/*/
 	font-size: 25px;
 	font-family: 'Lato', sans-serif;
 	margin: 0px;
@@ -8,7 +8,7 @@ body{
 /*nav-bar style*/
 
 #navigation, .navbar .navbar-expand-lg .fixed-top .p-0 {
-	background: url("img/tlomenu.jpg");
+	background: url("../img/tlomenu.jpg");
 }
 
 #logoside {
@@ -134,7 +134,7 @@ section {
 }
 
 #therapies {
-	margin-top: 30px;
+	padding-top: 150px;
 }
 
 figure {
@@ -158,7 +158,7 @@ figure {
 	transition: 5s easy-in-out;
 }
 
-figcaption {
+#therapies .row figure figcaption {
 	text-align: center;
 	font-style: italic;
 	font-size: 30px;
@@ -214,8 +214,8 @@ figcaption {
 	text-decoration: none;
 	background: url("img/up.png") no-repeat 0px 0px;
 	position: fixed;
-	right: 50px;
-	bottom: 50px;
+	right: 20px;
+	bottom: 25px;
 	z-index: 1;
 }
 
@@ -248,7 +248,6 @@ body::-webkit-scrollbar-thumb {
 
 .my-photo { 
 	margin-bottom: 0;
-	
 }
 
 .my-photo .img-fluid {
@@ -257,13 +256,19 @@ body::-webkit-scrollbar-thumb {
 }
 
 #my-photo-figcaption {
-	font-size: 3vw;
+	font-size: 4vh;
 	text-decoration-line: underline;
+	margin-top: 8px;
 }
 
 .main-description {
-	font-size: 2vw;
+	font-size: 3.5vh;
 	text-align: center;
+	padding-top: 10px;
+}
+
+.container .row .main-description p {
+	text-indent: 30px;
 }
 
 .certyfications {
@@ -298,7 +303,6 @@ body::-webkit-scrollbar-thumb {
 .container .row #offer h3{
 	text-align: center;
 	font-style: oblique;
-	font-weight: bold;
 	padding-bottom: 15px;
 }
 
@@ -345,6 +349,10 @@ body::-webkit-scrollbar-thumb {
 	margin: auto 0;
 }
 
+#time-box {
+	padding-top: 10px;
+}
+
 /* .icon-call {
 	font-size: 5vh;
 } */
@@ -389,8 +397,6 @@ body::-webkit-scrollbar-thumb {
 	padding: 5px 0;
 }
 
-#contact-details .container .row  
-
 #map {
 	margin-bottom: 20px;
 	border-radius: 5px;
@@ -432,6 +438,46 @@ body::-webkit-scrollbar-thumb {
 	padding-bottom: 20px;
 }
 
+/* style cooperation */
+
+#cooperation-container{
+	padding-top: 150px;
+}
+
+#cooperation-title{
+	text-align: center;
+	font-style: italic;
+	font-size: 6vh;
+	font-weight: 700;
+	color: rgb(22, 67, 212);
+	padding-bottom: 25px;
+}
+
+.team{
+	max-height: 250px;
+	/* width: 100%;  */
+	padding: 5px;
+	margin: 2px;
+	border-radius: 30px;
+	box-shadow: 5px 5px 20px #182019;
+}
+
+#cooperation-container .row figure figcaption{
+	text-align: center;
+	font-style: italic;
+	font-size: 25px;
+	margin-top: 8px;
+}
+
+#cooperation-footer{
+	text-align: center;
+	font-style: italic;
+	font-weight: 700;
+	color: rgb(22, 67, 212);
+	font-size: 25px;
+	padding-bottom: 25px;
+}
+
 /*style manual therapy*/
 #manual-therapy-container {
 	padding-top: 150px;
@@ -456,7 +502,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .container .row .manual-therapy-description {
-	font-size: 3vh;
+	font-size: 3.5vh;
 	text-align: justify;
 }
 

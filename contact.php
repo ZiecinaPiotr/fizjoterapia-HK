@@ -42,35 +42,35 @@
                 </div>
                 <div class="col-12" id="open-hours">
                   <h4>Godziny otwarcia:</h4>
-                  <h5>Poniedziałek 10:00-18:00</h5>
-                  <h5>Wtorek 10:00-18:00</h5>
-                  <h5>Środa 10:00-18:00</h5>
-                  <h5>Czwartek 10:00-18:00</h5>
-                  <h5>Piątek 10:00-18:00</h5>
-                  <h5>Sobota 10:00-14:00</h5>
+                  <h5>Poniedziałek 10:00-19:00</h5>
+                  <h5>Wtorek 10:00-19:00</h5>
+                  <h5>Środa 10:00-19:00</h5>
+                  <h5>Czwartek 10:00-19:00</h5>
+                  <h5>Piątek 10:00-19:00</h5>
                 </div> 
-                <div class="col-12" id="time" style="color: black">
+                <div class="col-12" id="time-box">
+                  <div id="time" style="color:black"></div>
                 </div>
               </div>
             </div> 
           </div>
           <div class="col-10 offset-1 col-sm-8 offset-sm-2 col-md-6 offset-md-0" id="email-form">
-            <form action="kontakt/" method="post" role="form">
+            <form action="mail.php" method="post" role="form" id="formContact">
               <div class="form-group">
-                <label for="form1">Imię i nazwisko</label>
-                <input type="text" name="name" class="form-control" id="form1" maxlength="50" required="">
+                <label for="inputName">Imię i nazwisko</label>
+                <input type="text" name="name" class="form-control" id="inputName" maxlength="50" required="">
               </div>
               <div class="form-group">
-                <label for="form1">Telefon</label>
-                <input type="text" name="tel" class="form-control" id="form1" maxlength="50" required="">
+                <label for="inputPhone">Telefon</label>
+                <input type="text" name="phone" class="form-control" id="inputPhone" maxlength="50" required="">
               </div>
               <div class="form-group">
-                <label for="form1">Email:</label>
-                <input type="email" name="email" class="form-control" id="form1" maxlength="50" required="">
+                <label for="inputEmail">Email</label>
+                <input type="email" name="email" class="form-control" id="inputEmail" maxlength="50" required="">
               </div>
               <div class="form-group">
-                <label for="form2">Treść:</label>
-                <textarea type="text" name="tresc" style="height:265px;" class="form-control" id="form2" required=""></textarea>
+                <label for="inputMessage">Treść</label>
+                <textarea type="text" name="message" rows ="6" maxlength="4000"  class="form-control" id="inputMessage" required=""></textarea>
               </div>
               <button class="btn btn-primary" type="submit" value="Wyślij">   	Wyślij				</button>
             </form>
@@ -95,6 +95,7 @@
     </div>
   </div>
   <script src="js/bootstrap.min.js"></script>
-  <script src="js/jquery.fancybox.min.js"></script>
+  <script src="js/jquery.fancybox.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.js"></script>
 </body>
 </html>

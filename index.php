@@ -18,13 +18,11 @@
 	<?php include('menu.php'); ?>
 
 	<main>
-      <section>
-        <a href="#" class="scrollup"></a>
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-sm-12 col-md-10 offset-md-1 slider">
-
-              <div class="slidshow-container">
+    <section>
+      <!-- <div class="container-fluid">
+        <div class="row">
+          <div class="col-sm-12 col-md-10 offset-md-1 slider">
+            <div class="slidshow-container">
                 <div class="slides fade ">
                   <div class="number">1 / 3</div>
                   <div><img class="img-fluid slide" src="img/main-page/probnyslajd1.jpg"></div>
@@ -44,14 +42,13 @@
                   <span class="dot" onclick="currentSlide(2)"></span>
                   <span class="dot" onclick="currentSlide(3)"></span>
                 </div>
-              </div>
-              
+              </div>             
             </div>
-
           </div>
-        </div>
-        <div class="container">
-          <div class="row" id="therapies">
+        </div> -->
+        <a href="#" class="scrollup"></a>
+        <div class="container" id="therapies">
+          <div class="row">
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-lg-5 offset-lg-1">
               <a href="Terapia-manualna"><img class="img-fluid tail" src="img/manual-therapy/terapia-manualna-3.jpg" alt="Terapia manualna" /></a>
               <figcaption>Terapia manualna</figcaption>
@@ -69,19 +66,14 @@
               <figcaption>Rehabilitacja ortopedyczna</figcaption>
             </figure>
           </div>
-        </div>
-      </section>
+      <!-- </div> -->
+    </section>
   </main>
 	
 	<?php include('footer.php'); ?>
 
-
-	<!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> -->
-
-	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> -->
-
 	<script src="js/bootstrap.min.js"></script>
-  <script src="js/jquery.fancybox.min.js"></script>
+  <script src="js/jquery.fancybox.js"></script>
 	
 </body>
 

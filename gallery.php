@@ -23,8 +23,8 @@
       <div class="container">
           <div class="row" id="gallery">
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-md-5 offset-md-1 col-lg-4 offset-lg-0">
-              <a href="img/gallery/gabinet.jpg" data-fancybox="images">
-                <img class="img-fluid tail-gallery" src="img/gallery/gabinet.jpg" alt="Terapia manualna" />
+              <a href="img/gallery/gabinet3.jpg" data-fancybox="images">
+                <img class="img-fluid tail-gallery" src="img/gallery/gabinet3.jpg" alt="Terapia manualna" />
               </a>
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-md-5 offset-md-0 col-lg-4 offset-lg-0">
@@ -48,8 +48,8 @@
               </a>
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-md-5 offset-md-0 col-lg-4 offset-lg-0">
-              <a href="img/manual-therapy/terapia-manualna-2.jpg" data-fancybox="images">
-                <img class="img-fluid tail-gallery" src="img/manual-therapy/terapia-manualna-2.jpg" alt="Terapia manualna" />
+              <a href="img/gallery/zielinski.jpg" data-fancybox="images">
+                <img class="img-fluid tail-gallery" src="img/gallery/zielinski.jpg" alt="Terapia manualna" />
               </a> 
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-md-5 offset-md-1 col-lg-4 offset-lg-0">
@@ -58,28 +58,28 @@
               </a>
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-md-5 offset-md-0 col-lg-4 offset-lg-0">
-              <a href="img/dry-needling/iglowanie_nowe1.jpg" data-fancybox="images">
-                <img class="img-fluid tail-gallery" src="img/dry-needling/iglowanie_nowe1.jpg" alt="Suche igłowanie" />
+              <a href="img/dry-needling/suche_iglowanie_4-10-18.jpg" data-fancybox="images">
+                <img class="img-fluid tail-gallery" src="img/dry-needling/suche_iglowanie_4-10-18.jpg" alt="Suche igłowanie" />
               </a>
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-md-5 offset-md-1 col-lg-4 offset-lg-0">
-              <a href="img/dry-needling/iglowanie_nowe2.jpg" data-fancybox="images">
-                <img class="img-fluid tail-gallery" src="img/dry-needling/iglowanie_nowe2.jpg" alt="Suche igłowanie" />
+              <a href="img/dry-needling/suche_iglowanie_23-10-18.jpg" data-fancybox="images">
+                <img class="img-fluid tail-gallery" src="img/dry-needling/suche_iglowanie_23-10-18.jpg" alt="Suche igłowanie" />
               </a>
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-md-5 offset-md-0 col-lg-4 offset-lg-0">
-              <a href="img/manual-therapy/terapia-manualna-2.jpg" data-fancybox="images">
-                <img class="img-fluid tail-gallery" src="img/manual-therapy/terapia-manualna-2.jpg" alt="Terapia manualna" />
+              <a href="img/kinesiotaping/kinesiotaping3.jpg" data-fancybox="images">
+                <img class="img-fluid tail-gallery" src="img/kinesiotaping/kinesiotaping3.jpg" alt="Terapia manualna" />
               </a> 
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-md-5 offset-md-1 col-lg-4 offset-lg-0">
-              <a href="img/manual-therapy/terapia-manualna-3.jpg" data-fancybox="images">
-                <img class="img-fluid tail-gallery" src="img/manual-therapy/terapia-manualna-3.jpg" alt="Suche igłowanie" />
+              <a href="img/manual-therapy/terapia-manualna-4.jpg" data-fancybox="images">
+                <img class="img-fluid tail-gallery" src="img/manual-therapy/terapia-manualna-4.jpg" alt="Suche igłowanie" />
               </a>
             </figure>
             <figure class="col-8 offset-2 col-sm-8 offset-sm-2 col-md-5 offset-md-0 col-lg-4 offset-lg-0">
-              <a href="img/dry-needling/iglowanie_nowe1.jpg" data-fancybox="images">
-                <img class="img-fluid tail-gallery" src="img/dry-needling/iglowanie_nowe1.jpg" alt="Suche igłowanie" />
+              <a href="img/gallery/gabinet.jpg" data-fancybox="images">
+                <img class="img-fluid tail-gallery" src="img/gallery/gabinet.jpg" alt="Suche igłowanie" />
               </a>
             </figure>
           </div>

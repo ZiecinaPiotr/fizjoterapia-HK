@@ -6,10 +6,8 @@
 		 aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon icon-th-list-1"></span>
 		</button>
-
 		<div class="collapse navbar-collapse" id="navbarResidue">
 			<ul class="navbar-nav nav-fill mx-auto p-0">
-
 				<li class="nav-item">
 					<a class="nav-link " href="O-mnie">O mnie</a>
 				</li>
@@ -25,11 +23,6 @@
 				<li class="nav-item">
 					<a class="nav-link" href="Współpraca">Współpraca</a>
 				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="Logowanie">Logowanie</a>
-				</li>
-
 			</ul>
-
 		</div>
 	</nav>
